@@ -1,0 +1,1233 @@
+{
+ "version": 1,
+ "actualizado": "2026-11-27T09:45:00+01:00",
+ "sesgo": {
+  "direccion": "bajista",
+  "confianza": "media",
+  "texto": "Cripto sigue en tendencia bajista clara: BTC cerró el 26-nov en 60.948 $, más de un 50 % por debajo del máximo de finales de 2025 y cerca de un 20 % abajo en noviembre. La Fed está subiendo tipos y el bono a 10 años ronda el 4,9–5 %. Las bolsas aguantan mejor (S&P 500 algo más de un 5 % bajo máximos)."
+ },
+ "lo_unico": "El 9 de diciembre la Fed decide (el mercado da como muy probable otra subida de 25 pb) y al día siguiente sale el IPC de noviembre. Son dos días seguidos de volatilidad alta: la semana del 7 al 11 de diciembre es la clave del mes.",
+ "macro": {
+  "texto": "La Fed de Warsh subió 25 pb en septiembre (3,75–4,00 %) y mantuvo en octubre con dos votos a favor de subir más. El IPC de octubre salió por encima (+0,4 % m/m frente a +0,3 % esperado) y el empleo sorprendió al alza (+165.000). Con inflación terca por la energía y un mercado laboral firme, la siguiente decisión se inclina a subir. El BCE también endureció (depósito 2,50 %) y Lagarde se va en febrero. La liquidez de la Fed está plana: el balance apenas se mueve, la cuenta del Tesoro ha bajado algo desde finales de octubre (ligeramente positivo) y los repos inversos están prácticamente a cero, así que ya no queda ese colchón.",
+  "fed": {
+   "tipo": "3,75–4,00 %",
+   "ultimo": "Mantiene (28-oct, 10-2)",
+   "proximo": "Subida de 25 pb muy descontada para el 9-dic"
+  },
+  "bce": {
+   "tipo": "Depósito 2,50 %",
+   "ultimo": "Mantiene (29-oct)",
+   "proximo": "17-dic; Lagarde dejó la puerta abierta a subir"
+  }
+ },
+ "sentimiento": {
+  "tono": -0.85,
+  "etiqueta": "Muy negativo",
+  "texto": "Miedo extremo durante siete semanas seguidas (índice de miedo y codicia en 10–12). Las salidas de los ETF de bitcoin al contado marcan récord mensual (unos 5.400 M$ en noviembre hasta el día 25). Los titulares hablan de mercado bajista, death cross y ventas institucionales.",
+  "lectura_contraria": "Es justo el patrón que describes: noticias claramente bajistas después de una caída fuerte y prolongada. Históricamente las peores noticias llegan cerca de los mínimos. Es una zona donde conviene buscar suelo, pero no es señal de compra: el miedo extremo puede durar semanas, y la Fed sigue endureciendo."
+ },
+ "escenarios": {
+  "alcista": {
+   "texto": "Rebote de alivio si el vencimiento de opciones (27-nov) y el cierre mensual no rompen mínimos, y si la Fed suena menos dura de lo temido el 9-dic.",
+   "confirmacion": "BTC recupera y cierra el día por encima de la zona de 64.500 $ (máximo de esta semana) y las salidas de los ETF se frenan.",
+   "invalidacion": "Pérdida de los mínimos de la semana (55.100–57.500 $)."
+  },
+  "bajista": {
+   "texto": "Continuación de la tendencia: subida de la Fed más un IPC caliente el 10-dic presionan los rendimientos y el dólar, y las salidas de los ETF siguen.",
+   "confirmacion": "Cierre diario por debajo de 57.500 $ y bono a 10 años de vuelta por encima del 5 %.",
+   "invalidacion": "Cierre semanal por encima de 64.500 $ con el índice de miedo saliendo de la zona extrema."
+  }
+ },
+ "abogado_diablo": "El sesgo es bajista, pero el posicionamiento ya es muy corto: el funding está casi neutro y una parte del rebote de Acción de Gracias vino de cierres forzados de cortos. Con el miedo en 10–12 y salidas récord, quien quería vender ya ha vendido mucho. Una Fed que sube \"por última vez\" puede leerse como el final del endurecimiento y provocar un rebote violento.",
+ "proximas_24h": [
+  "Vencimiento de unos 7.000 M$ en opciones de BTC hoy, 27-nov (08:00 UTC en Deribit).",
+  "Sesión corta en Wall Street por el Black Friday; poca liquidez, movimientos exagerados.",
+  "Cierre mensual el lunes 30-nov: noviembre es uno de los peores meses del año para cripto.",
+  "Qué cambiaría el sesgo: un cierre diario de BTC por encima de 64.500 $ o entradas netas en los ETF."
+ ],
+ "titulares": [
+  {
+   "t": "Bitcoin se mantiene por encima de 60.000 $ mientras el death cross apunta a debilidad",
+   "fuente": "Crypto Briefing",
+   "tono": -1,
+   "url": "https://cryptobriefing.com/bitcoin-holds-60k-death-cross-etf-outflows/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "t": "Los ETF de bitcoin al contado pierden 5.390 M$ en noviembre, el peor mes desde su lanzamiento",
+   "fuente": "MLQ.ai",
+   "tono": -1,
+   "url": "https://mlq.ai/news/bitcoin-holds-near-61000-on-thanksgiving-as-etf-outflows-hit-539-billion/",
+   "fecha": "2026-11-26"
+  },
+  {
+   "t": "El índice de miedo y codicia sigue en miedo extremo (10–12) por séptima semana",
+   "fuente": "EDAILY",
+   "tono": -1,
+   "url": "https://en.edaily.co.kr/news/eda202611275069/",
+   "fecha": "2026-11-27"
+  },
+  {
+   "t": "El IPC de octubre sube un 0,4 %, más de lo esperado",
+   "fuente": "Stock Analysis",
+   "tono": -1,
+   "url": "https://stockanalysis.com/news/us-cpi-rises-october-2026/",
+   "fecha": "2026-11-10"
+  },
+  {
+   "t": "EE. UU. crea 165.000 empleos en octubre, muy por encima de lo previsto",
+   "fuente": "Fox Business",
+   "tono": 0,
+   "url": "https://foxbusiness.com/economy/us-jobs-report-october-2026",
+   "fecha": "2026-11-06"
+  },
+  {
+   "t": "La Fed mantiene tipos en 3,75–4 % con dos votos a favor de subir",
+   "fuente": "Admiral Markets",
+   "tono": -1,
+   "url": "https://admiralmarkets.com/analytics/traders-blog/warsh-press-conference-october-2026",
+   "fecha": "2026-10-28"
+  }
+ ],
+ "eventos": [
+  {
+   "id": "FOMC-2025-12-10",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC) + proyecciones",
+   "t": "2025-12-10T19:00:00Z",
+   "real": "Baja 25 pb → 3,50–3,75 %",
+   "efecto": "dovish",
+   "resumen": "Tercer recorte seguido; Powell en modo espera."
+  },
+  {
+   "id": "NFP-2025-12-16",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (noviembre)",
+   "t": "2025-12-16T13:30:00Z"
+  },
+  {
+   "id": "BCE-2025-12-18",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2025-12-18T13:15:00Z"
+  },
+  {
+   "id": "CPI-2025-12-18",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (noviembre)",
+   "t": "2025-12-18T13:30:00Z"
+  },
+  {
+   "id": "NFP-2026-01-09",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (diciembre)",
+   "t": "2026-01-09T13:30:00Z"
+  },
+  {
+   "id": "CPI-2026-01-13",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (diciembre)",
+   "t": "2026-01-13T13:30:00Z"
+  },
+  {
+   "id": "FOMC-2026-01-28",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC)",
+   "t": "2026-01-28T19:00:00Z"
+  },
+  {
+   "id": "BCE-2026-02-05",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2026-02-05T13:15:00Z"
+  },
+  {
+   "id": "NFP-2026-02-11",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (enero)",
+   "t": "2026-02-11T13:30:00Z"
+  },
+  {
+   "id": "CPI-2026-02-13",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (enero)",
+   "t": "2026-02-13T13:30:00Z"
+  },
+  {
+   "id": "NFP-2026-03-06",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (febrero)",
+   "t": "2026-03-06T13:30:00Z"
+  },
+  {
+   "id": "CPI-2026-03-11",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (febrero)",
+   "t": "2026-03-11T12:30:00Z"
+  },
+  {
+   "id": "FOMC-2026-03-18",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC) + proyecciones",
+   "t": "2026-03-18T18:00:00Z"
+  },
+  {
+   "id": "BCE-2026-03-19",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2026-03-19T13:15:00Z"
+  },
+  {
+   "id": "NFP-2026-04-03",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (marzo)",
+   "t": "2026-04-03T12:30:00Z"
+  },
+  {
+   "id": "CPI-2026-04-10",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (marzo)",
+   "t": "2026-04-10T12:30:00Z"
+  },
+  {
+   "id": "FOMC-2026-04-29",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC)",
+   "t": "2026-04-29T18:00:00Z"
+  },
+  {
+   "id": "BCE-2026-04-30",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2026-04-30T12:15:00Z"
+  },
+  {
+   "id": "NFP-2026-05-08",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (abril)",
+   "t": "2026-05-08T12:30:00Z"
+  },
+  {
+   "id": "CPI-2026-05-12",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (abril)",
+   "t": "2026-05-12T12:30:00Z"
+  },
+  {
+   "id": "NFP-2026-06-05",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (mayo)",
+   "t": "2026-06-05T12:30:00Z"
+  },
+  {
+   "id": "CPI-2026-06-10",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (mayo)",
+   "t": "2026-06-10T12:30:00Z"
+  },
+  {
+   "id": "BCE-2026-06-11",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2026-06-11T12:15:00Z"
+  },
+  {
+   "id": "FOMC-2026-06-17",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC) + proyecciones",
+   "t": "2026-06-17T18:00:00Z"
+  },
+  {
+   "id": "NFP-2026-07-02",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (junio)",
+   "t": "2026-07-02T12:30:00Z"
+  },
+  {
+   "id": "CPI-2026-07-14",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (junio)",
+   "t": "2026-07-14T12:30:00Z"
+  },
+  {
+   "id": "BCE-2026-07-23",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2026-07-23T12:15:00Z"
+  },
+  {
+   "id": "FOMC-2026-07-29",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC)",
+   "t": "2026-07-29T18:00:00Z"
+  },
+  {
+   "id": "NFP-2026-08-07",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (julio)",
+   "t": "2026-08-07T12:30:00Z"
+  },
+  {
+   "id": "CPI-2026-08-12",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (julio)",
+   "t": "2026-08-12T12:30:00Z"
+  },
+  {
+   "id": "NFP-2026-09-04",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (agosto)",
+   "t": "2026-09-04T12:30:00Z"
+  },
+  {
+   "id": "BCE-2026-09-10",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2026-09-10T12:15:00Z",
+   "real": "Sube → depósito 2,50 %",
+   "efecto": "hawkish",
+   "resumen": "Segunda subida del año por el choque energético."
+  },
+  {
+   "id": "CPI-2026-09-11",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (agosto)",
+   "t": "2026-09-11T12:30:00Z"
+  },
+  {
+   "id": "FOMC-2026-09-16",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC) + proyecciones",
+   "t": "2026-09-16T18:00:00Z",
+   "real": "Sube 25 pb → 3,75–4,00 %",
+   "efecto": "hawkish",
+   "resumen": "Primera subida desde 2023, con Warsh al frente."
+  },
+  {
+   "id": "NFP-2026-10-02",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (septiembre)",
+   "t": "2026-10-02T12:30:00Z",
+   "real": "+29.000 · paro 4,2 %",
+   "efecto": "dovish",
+   "resumen": "Dato flojo (luego revisado a +60.000)."
+  },
+  {
+   "id": "CPI-2026-10-14",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (septiembre)",
+   "t": "2026-10-14T12:30:00Z",
+   "real": "+0,6 % m/m · 3,7 % a/a",
+   "efecto": "hawkish",
+   "resumen": "Repunte por energía."
+  },
+  {
+   "id": "FOMC-2026-10-28",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC)",
+   "t": "2026-10-28T18:00:00Z",
+   "real": "Mantiene 3,75–4,00 %",
+   "esperado": "Mantener",
+   "efecto": "hawkish",
+   "resumen": "Votación 10-2: los dos disidentes querían subir. Inflación \"elevada\"; el mercado descuenta subida en diciembre."
+  },
+  {
+   "id": "BCE-2026-10-29",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2026-10-29T13:15:00Z",
+   "real": "Mantiene depósito 2,50 %",
+   "esperado": "Mantener",
+   "efecto": "neutral",
+   "resumen": "Discutieron subir. Lagarde anuncia que deja el cargo el 7 de febrero de 2027."
+  },
+  {
+   "id": "NFP-2026-11-06",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (octubre)",
+   "t": "2026-11-06T13:30:00Z",
+   "real": "+165.000 · paro 4,1 %",
+   "esperado": "+60.000 aprox.",
+   "anterior": "+60.000 (revisado)",
+   "efecto": "hawkish",
+   "resumen": "Muy por encima de lo previsto, con revisiones al alza. Refuerza la subida de diciembre."
+  },
+  {
+   "id": "CPI-2026-11-10",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (octubre)",
+   "t": "2026-11-10T13:30:00Z",
+   "real": "+0,4 % m/m · subyacente +0,3 %",
+   "esperado": "+0,3 % m/m",
+   "anterior": "+0,6 % m/m",
+   "efecto": "hawkish",
+   "resumen": "Por encima de lo esperado. Sin tasa anual por el cierre del Gobierno de 2025. Tras el dato, el mercado pasó a descontar del todo una subida en diciembre."
+  },
+  {
+   "id": "NFP-2026-12-04",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (noviembre)",
+   "t": "2026-12-04T13:30:00Z"
+  },
+  {
+   "id": "FOMC-2026-12-09",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC) + proyecciones",
+   "t": "2026-12-09T19:00:00Z"
+  },
+  {
+   "id": "CPI-2026-12-10",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (noviembre)",
+   "t": "2026-12-10T13:30:00Z"
+  },
+  {
+   "id": "BCE-2026-12-17",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2026-12-17T13:15:00Z"
+  },
+  {
+   "id": "NFP-2027-01-08",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (diciembre)",
+   "t": "2027-01-08T13:30:00Z"
+  },
+  {
+   "id": "CPI-2027-01-13",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (diciembre)",
+   "t": "2027-01-13T13:30:00Z"
+  },
+  {
+   "id": "FOMC-2027-01-27",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC)",
+   "t": "2027-01-27T19:00:00Z"
+  },
+  {
+   "id": "BCE-2027-02-04",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2027-02-04T13:15:00Z"
+  },
+  {
+   "id": "NFP-2027-02-05",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (enero)",
+   "t": "2027-02-05T13:30:00Z"
+  },
+  {
+   "id": "CPI-2027-02-11",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (enero)",
+   "t": "2027-02-11T13:30:00Z"
+  },
+  {
+   "id": "NFP-2027-03-05",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (febrero)",
+   "t": "2027-03-05T13:30:00Z"
+  },
+  {
+   "id": "CPI-2027-03-10",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (febrero)",
+   "t": "2027-03-10T13:30:00Z"
+  },
+  {
+   "id": "FOMC-2027-03-17",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC) + proyecciones",
+   "t": "2027-03-17T18:00:00Z"
+  },
+  {
+   "id": "BCE-2027-03-18",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2027-03-18T13:15:00Z"
+  },
+  {
+   "id": "NFP-2027-04-02",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (marzo)",
+   "t": "2027-04-02T12:30:00Z"
+  },
+  {
+   "id": "CPI-2027-04-13",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (marzo)",
+   "t": "2027-04-13T12:30:00Z"
+  },
+  {
+   "id": "FOMC-2027-04-28",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC)",
+   "t": "2027-04-28T18:00:00Z"
+  },
+  {
+   "id": "BCE-2027-04-29",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2027-04-29T12:15:00Z"
+  },
+  {
+   "id": "NFP-2027-05-07",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (abril)",
+   "t": "2027-05-07T12:30:00Z"
+  },
+  {
+   "id": "CPI-2027-05-12",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (abril)",
+   "t": "2027-05-12T12:30:00Z"
+  },
+  {
+   "id": "NFP-2027-06-04",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (mayo)",
+   "t": "2027-06-04T12:30:00Z"
+  },
+  {
+   "id": "FOMC-2027-06-09",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC) + proyecciones",
+   "t": "2027-06-09T18:00:00Z"
+  },
+  {
+   "id": "BCE-2027-06-10",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2027-06-10T12:15:00Z"
+  },
+  {
+   "id": "CPI-2027-06-10",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (mayo)",
+   "t": "2027-06-10T12:30:00Z"
+  },
+  {
+   "id": "NFP-2027-07-02",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (junio)",
+   "t": "2027-07-02T12:30:00Z"
+  },
+  {
+   "id": "CPI-2027-07-14",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (junio)",
+   "t": "2027-07-14T12:30:00Z"
+  },
+  {
+   "id": "BCE-2027-07-22",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2027-07-22T12:15:00Z"
+  },
+  {
+   "id": "FOMC-2027-07-28",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC)",
+   "t": "2027-07-28T18:00:00Z"
+  },
+  {
+   "id": "NFP-2027-08-06",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (julio)",
+   "t": "2027-08-06T12:30:00Z"
+  },
+  {
+   "id": "CPI-2027-08-11",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (julio)",
+   "t": "2027-08-11T12:30:00Z"
+  },
+  {
+   "id": "NFP-2027-09-03",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (agosto)",
+   "t": "2027-09-03T12:30:00Z"
+  },
+  {
+   "id": "BCE-2027-09-09",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2027-09-09T12:15:00Z"
+  },
+  {
+   "id": "CPI-2027-09-14",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (agosto)",
+   "t": "2027-09-14T12:30:00Z"
+  },
+  {
+   "id": "FOMC-2027-09-15",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC) + proyecciones",
+   "t": "2027-09-15T18:00:00Z"
+  },
+  {
+   "id": "NFP-2027-10-08",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (septiembre)",
+   "t": "2027-10-08T12:30:00Z"
+  },
+  {
+   "id": "CPI-2027-10-14",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (septiembre)",
+   "t": "2027-10-14T12:30:00Z"
+  },
+  {
+   "id": "BCE-2027-10-28",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2027-10-28T12:15:00Z"
+  },
+  {
+   "id": "NFP-2027-11-05",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (octubre)",
+   "t": "2027-11-05T12:30:00Z"
+  },
+  {
+   "id": "CPI-2027-11-10",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (octubre)",
+   "t": "2027-11-10T13:30:00Z"
+  },
+  {
+   "id": "FOMC-2027-11-17",
+   "tipo": "FOMC",
+   "nombre": "Fed (FOMC) + proyecciones",
+   "t": "2027-11-17T19:00:00Z"
+  },
+  {
+   "id": "NFP-2027-12-03",
+   "tipo": "NFP",
+   "nombre": "Empleo EE. UU. (noviembre)",
+   "t": "2027-12-03T13:30:00Z"
+  },
+  {
+   "id": "CPI-2027-12-10",
+   "tipo": "CPI",
+   "nombre": "IPC EE. UU. (noviembre)",
+   "t": "2027-12-10T13:30:00Z"
+  },
+  {
+   "id": "BCE-2027-12-16",
+   "tipo": "BCE",
+   "nombre": "BCE",
+   "t": "2027-12-16T13:15:00Z"
+  }
+ ],
+ "liquidez": {
+  "fuente": "FRED (Reserva Federal de St. Louis)",
+  "unidades": {
+   "walcl": "M$",
+   "tga": "M$",
+   "rrp": "miles de M$",
+   "dgs10": "%",
+   "usd": "índice",
+   "m2": "miles de M$"
+  },
+  "series": {
+   "walcl": [
+    [
+     "2026-05-27",
+     6704383.0
+    ],
+    [
+     "2026-06-03",
+     6711495.0
+    ],
+    [
+     "2026-06-10",
+     6725397.0
+    ],
+    [
+     "2026-06-17",
+     6736424.0
+    ],
+    [
+     "2026-06-24",
+     6735645.0
+    ],
+    [
+     "2026-07-01",
+     6724564.0
+    ],
+    [
+     "2026-07-08",
+     6735609.0
+    ],
+    [
+     "2026-07-15",
+     6743028.0
+    ],
+    [
+     "2026-07-22",
+     6747378.0
+    ],
+    [
+     "2026-07-29",
+     6738190.0
+    ],
+    [
+     "2026-08-05",
+     6748567.0
+    ],
+    [
+     "2026-08-12",
+     6759955.0
+    ],
+    [
+     "2026-08-19",
+     6745699.0
+    ],
+    [
+     "2026-08-26",
+     6730912.0
+    ],
+    [
+     "2026-09-02",
+     6737204.0
+    ],
+    [
+     "2026-09-09",
+     6740619.0
+    ],
+    [
+     "2026-09-16",
+     6746548.0
+    ],
+    [
+     "2026-09-23",
+     6747704.0
+    ],
+    [
+     "2026-09-30",
+     6743031.0
+    ],
+    [
+     "2026-10-07",
+     6747560.0
+    ],
+    [
+     "2026-10-14",
+     6755639.0
+    ],
+    [
+     "2026-10-21",
+     6753604.0
+    ],
+    [
+     "2026-10-28",
+     6745635.0
+    ],
+    [
+     "2026-11-04",
+     6748145.0
+    ],
+    [
+     "2026-11-11",
+     6758867.0
+    ],
+    [
+     "2026-11-18",
+     6741452.0
+    ]
+   ],
+   "tga": [
+    [
+     "2026-05-27",
+     830296.0
+    ],
+    [
+     "2026-06-03",
+     875713.0
+    ],
+    [
+     "2026-06-10",
+     828122.0
+    ],
+    [
+     "2026-06-17",
+     880713.0
+    ],
+    [
+     "2026-06-24",
+     918696.0
+    ],
+    [
+     "2026-07-01",
+     880237.0
+    ],
+    [
+     "2026-07-08",
+     774062.0
+    ],
+    [
+     "2026-07-15",
+     756218.0
+    ],
+    [
+     "2026-07-22",
+     829623.0
+    ],
+    [
+     "2026-07-29",
+     910776.0
+    ],
+    [
+     "2026-08-05",
+     907324.0
+    ],
+    [
+     "2026-08-12",
+     963950.0
+    ],
+    [
+     "2026-08-19",
+     953612.0
+    ],
+    [
+     "2026-08-26",
+     950736.0
+    ],
+    [
+     "2026-09-02",
+     967935.0
+    ],
+    [
+     "2026-09-09",
+     883335.0
+    ],
+    [
+     "2026-09-16",
+     877028.0
+    ],
+    [
+     "2026-09-23",
+     977084.0
+    ],
+    [
+     "2026-09-30",
+     948674.0
+    ],
+    [
+     "2026-10-07",
+     880253.0
+    ],
+    [
+     "2026-10-14",
+     883373.0
+    ],
+    [
+     "2026-10-21",
+     952002.0
+    ],
+    [
+     "2026-10-28",
+     999727.0
+    ],
+    [
+     "2026-11-04",
+     957175.0
+    ],
+    [
+     "2026-11-11",
+     914370.0
+    ],
+    [
+     "2026-11-18",
+     916613.0
+    ]
+   ],
+   "rrp": [
+    [
+     "2026-10-21",
+     0.237
+    ],
+    [
+     "2026-10-22",
+     0.351
+    ],
+    [
+     "2026-10-23",
+     0.2
+    ],
+    [
+     "2026-10-26",
+     0.2
+    ],
+    [
+     "2026-10-27",
+     0.226
+    ],
+    [
+     "2026-10-28",
+     0.176
+    ],
+    [
+     "2026-10-29",
+     0.353
+    ],
+    [
+     "2026-10-30",
+     4.375
+    ],
+    [
+     "2026-11-02",
+     5.087
+    ],
+    [
+     "2026-11-03",
+     0.427
+    ],
+    [
+     "2026-11-04",
+     0.225
+    ],
+    [
+     "2026-11-05",
+     0.125
+    ],
+    [
+     "2026-11-06",
+     0.15
+    ],
+    [
+     "2026-11-09",
+     0.252
+    ],
+    [
+     "2026-11-10",
+     0.152
+    ],
+    [
+     "2026-11-12",
+     0.25
+    ],
+    [
+     "2026-11-13",
+     0.325
+    ],
+    [
+     "2026-11-16",
+     0.182
+    ],
+    [
+     "2026-11-17",
+     0.351
+    ],
+    [
+     "2026-11-18",
+     0.331
+    ],
+    [
+     "2026-11-19",
+     0.405
+    ],
+    [
+     "2026-11-20",
+     0.401
+    ],
+    [
+     "2026-11-23",
+     0.35
+    ],
+    [
+     "2026-11-24",
+     0.301
+    ],
+    [
+     "2026-11-25",
+     0.3
+    ]
+   ],
+   "dgs10": [
+    [
+     "2026-10-20",
+     5.12
+    ],
+    [
+     "2026-10-21",
+     5.13
+    ],
+    [
+     "2026-10-22",
+     4.96
+    ],
+    [
+     "2026-10-23",
+     5.0
+    ],
+    [
+     "2026-10-26",
+     5.0
+    ],
+    [
+     "2026-10-27",
+     4.99
+    ],
+    [
+     "2026-10-28",
+     5.05
+    ],
+    [
+     "2026-10-29",
+     4.98
+    ],
+    [
+     "2026-10-30",
+     4.94
+    ],
+    [
+     "2026-11-02",
+     4.91
+    ],
+    [
+     "2026-11-03",
+     4.95
+    ],
+    [
+     "2026-11-04",
+     4.9
+    ],
+    [
+     "2026-11-05",
+     4.84
+    ],
+    [
+     "2026-11-06",
+     4.86
+    ],
+    [
+     "2026-11-09",
+     4.88
+    ],
+    [
+     "2026-11-10",
+     4.98
+    ],
+    [
+     "2026-11-12",
+     5.1
+    ],
+    [
+     "2026-11-13",
+     5.15
+    ],
+    [
+     "2026-11-16",
+     5.12
+    ],
+    [
+     "2026-11-17",
+     5.1
+    ],
+    [
+     "2026-11-18",
+     5.07
+    ],
+    [
+     "2026-11-19",
+     5.04
+    ],
+    [
+     "2026-11-20",
+     4.92
+    ],
+    [
+     "2026-11-23",
+     4.92
+    ],
+    [
+     "2026-11-24",
+     4.91
+    ]
+   ],
+   "usd": [
+    [
+     "2026-10-16",
+     121.405
+    ],
+    [
+     "2026-10-19",
+     121.325
+    ],
+    [
+     "2026-10-20",
+     121.116
+    ],
+    [
+     "2026-10-21",
+     121.342
+    ],
+    [
+     "2026-10-22",
+     121.353
+    ],
+    [
+     "2026-10-23",
+     121.32
+    ],
+    [
+     "2026-10-26",
+     121.604
+    ],
+    [
+     "2026-10-27",
+     121.662
+    ],
+    [
+     "2026-10-28",
+     121.849
+    ],
+    [
+     "2026-10-29",
+     121.736
+    ],
+    [
+     "2026-10-30",
+     121.666
+    ],
+    [
+     "2026-11-02",
+     121.37
+    ],
+    [
+     "2026-11-03",
+     121.808
+    ],
+    [
+     "2026-11-04",
+     121.398
+    ],
+    [
+     "2026-11-05",
+     121.506
+    ],
+    [
+     "2026-11-06",
+     121.88
+    ],
+    [
+     "2026-11-09",
+     121.662
+    ],
+    [
+     "2026-11-10",
+     122.114
+    ],
+    [
+     "2026-11-12",
+     122.543
+    ],
+    [
+     "2026-11-13",
+     122.65
+    ],
+    [
+     "2026-11-16",
+     122.862
+    ],
+    [
+     "2026-11-17",
+     122.61
+    ],
+    [
+     "2026-11-18",
+     123.138
+    ],
+    [
+     "2026-11-19",
+     123.525
+    ],
+    [
+     "2026-11-20",
+     123.598
+    ]
+   ],
+   "m2": [
+    [
+     "2025-10-01",
+     22223.1
+    ],
+    [
+     "2025-11-01",
+     22253.2
+    ],
+    [
+     "2025-12-01",
+     22328.8
+    ],
+    [
+     "2026-01-01",
+     22386.7
+    ],
+    [
+     "2026-02-01",
+     22572.3
+    ],
+    [
+     "2026-03-01",
+     22613.9
+    ],
+    [
+     "2026-04-01",
+     22728.0
+    ],
+    [
+     "2026-05-01",
+     22980.8
+    ],
+    [
+     "2026-06-01",
+     23077.6
+    ],
+    [
+     "2026-07-01",
+     23177.3
+    ],
+    [
+     "2026-08-01",
+     23300.8
+    ],
+    [
+     "2026-09-01",
+     23414.3
+    ],
+    [
+     "2026-10-01",
+     23532.8
+    ]
+   ]
+  },
+  "texto": "Liquidez neta plana con ligera mejora en noviembre por la bajada de la cuenta del Tesoro. Los repos inversos están agotados (≈0). El bono a 10 años se ha relajado del 5,15 % al 4,91 %; el dólar sigue firme."
+ },
+ "fuentes": [
+  {
+   "t": "Fed: calendario FOMC 2027 revisado",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+  },
+  {
+   "t": "BLS: calendario del IPC",
+   "url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+  },
+  {
+   "t": "BLS: calendario del informe de empleo",
+   "url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+  },
+  {
+   "t": "BCE: calendario de reuniones",
+   "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+  },
+  {
+   "t": "FRED",
+   "url": "https://fred.stlouisfed.org/"
+  }
+ ]
+}
