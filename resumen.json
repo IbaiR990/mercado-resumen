@@ -1,92 +1,100 @@
 {
  "version": 1,
- "actualizado": "2026-11-27T09:45:00+01:00",
+ "actualizado": "2026-11-28T07:41:00+01:00",
  "sesgo": {
   "direccion": "bajista",
   "confianza": "media",
-  "texto": "Cripto sigue en tendencia bajista clara: BTC cerró el 26-nov en 60.948 $, más de un 50 % por debajo del máximo de finales de 2025 y cerca de un 20 % abajo en noviembre. La Fed está subiendo tipos y el bono a 10 años ronda el 4,9–5 %. Las bolsas aguantan mejor (S&P 500 algo más de un 5 % bajo máximos)."
+  "texto": "Cripto rebota pero sigue en tendencia bajista: BTC cerró el 27-nov en 61.482 $ (+1,6 %), tras tocar unos 57.300 $ el miércoles, y acumula una caída cercana al 19 % en 20 sesiones. Las bolsas han vivido su mejor semana desde abril de 2025 (S&P 500 +5,6 %), pero los ETF de bitcoin siguen con salidas y la Fed tiene una subida descontada para el 9-dic."
  },
- "lo_unico": "El 9 de diciembre la Fed decide (el mercado da como muy probable otra subida de 25 pb) y al día siguiente sale el IPC de noviembre. Son dos días seguidos de volatilidad alta: la semana del 7 al 11 de diciembre es la clave del mes.",
+ "lo_unico": "Fin de semana con poca liquidez y una semana decisiva por delante: cierre mensual el lunes 30-nov, ISM y JOLTS el martes y el empleo de noviembre el viernes 4-dic (se esperan +90.000). Es la antesala de la Fed (9-dic, subida de 25 pb descontada casi al 100 %) y del IPC (10-dic).",
  "macro": {
-  "texto": "La Fed de Warsh subió 25 pb en septiembre (3,75–4,00 %) y mantuvo en octubre con dos votos a favor de subir más. El IPC de octubre salió por encima (+0,4 % m/m frente a +0,3 % esperado) y el empleo sorprendió al alza (+165.000). Con inflación terca por la energía y un mercado laboral firme, la siguiente decisión se inclina a subir. El BCE también endureció (depósito 2,50 %) y Lagarde se va en febrero. La liquidez de la Fed está plana: el balance apenas se mueve, la cuenta del Tesoro ha bajado algo desde finales de octubre (ligeramente positivo) y los repos inversos están prácticamente a cero, así que ya no queda ese colchón.",
+  "texto": "La Fed de Warsh tiene el tipo en 3,75–4,00 % y, según CME FedWatch, el mercado da por hecha una subida de 25 pb el 9-dic; para enero de 2027 asigna en torno a un 64 % a que el rango llegue al menos a 4,25–4,50 %. La subyacente del PCE de octubre subió al 3,3 % interanual, y el empleo de octubre (+165.000) y el IPC (+0,4 % m/m) salieron por encima. El consenso para el empleo de noviembre es +90.000 con paro estable en el 4,1 %. El BCE (depósito 2,50 %) apunta también a endurecer: las actas de octubre dan una subida en diciembre como escenario base. Liquidez de la Fed plana y repos inversos prácticamente a cero.",
   "fed": {
    "tipo": "3,75–4,00 %",
    "ultimo": "Mantiene (28-oct, 10-2)",
-   "proximo": "Subida de 25 pb muy descontada para el 9-dic"
+   "proximo": "9-dic: subida de 25 pb descontada (~100 % en FedWatch)"
   },
   "bce": {
    "tipo": "Depósito 2,50 %",
    "ultimo": "Mantiene (29-oct)",
-   "proximo": "17-dic; Lagarde dejó la puerta abierta a subir"
+   "proximo": "17-dic; las actas apuntan a subida como caso base"
   }
  },
  "sentimiento": {
-  "tono": -0.85,
-  "etiqueta": "Muy negativo",
-  "texto": "Miedo extremo durante siete semanas seguidas (índice de miedo y codicia en 10–12). Las salidas de los ETF de bitcoin al contado marcan récord mensual (unos 5.400 M$ en noviembre hasta el día 25). Los titulares hablan de mercado bajista, death cross y ventas institucionales.",
-  "lectura_contraria": "Es justo el patrón que describes: noticias claramente bajistas después de una caída fuerte y prolongada. Históricamente las peores noticias llegan cerca de los mínimos. Es una zona donde conviene buscar suelo, pero no es señal de compra: el miedo extremo puede durar semanas, y la Fed sigue endureciendo."
+  "tono": -0.65,
+  "etiqueta": "Negativo",
+  "texto": "Cripto sigue en miedo extremo (índice de miedo y codicia en 11–12, ocho sesiones seguidas entre 11 y 13). Los ETF de bitcoin al contado suman ocho sesiones de salidas (−389 M$ el 27-nov) y noviembre ya marca récord con unos −5.780 M$. En bolsa el tono ha mejorado mucho: rebote amplio de la tecnología y el VIX bajando a 23,8.",
+  "lectura_contraria": "Encaja con tu idea: titulares muy bajistas (salidas récord, death cross, miedo extremo semanas) tras una caída larga suelen aparecer cerca de zonas de suelo, y el rebote de esta semana vino en parte de cierres de cortos. Aun así es un aviso, no una señal: la liquidez no mejora, la Fed sube tipos y el miedo extremo puede prolongarse."
  },
  "escenarios": {
   "alcista": {
-   "texto": "Rebote de alivio si el vencimiento de opciones (27-nov) y el cierre mensual no rompen mínimos, y si la Fed suena menos dura de lo temido el 9-dic.",
-   "confirmacion": "BTC recupera y cierra el día por encima de la zona de 64.500 $ (máximo de esta semana) y las salidas de los ETF se frenan.",
-   "invalidacion": "Pérdida de los mínimos de la semana (55.100–57.500 $)."
+   "texto": "El rebote de las bolsas arrastra a cripto, las salidas de los ETF se frenan y el empleo del 4-dic sale flojo, lo que suavizaría el tono de la Fed.",
+   "confirmacion": "Cierre diario de BTC por encima de 64.000 $ (techo de la zona de resistencia de 62.000–64.000 $) y primeras entradas netas en los ETF.",
+   "invalidacion": "Vuelta por debajo de 58.500 $ (mínimo de cierre del 30 de junio)."
   },
   "bajista": {
-   "texto": "Continuación de la tendencia: subida de la Fed más un IPC caliente el 10-dic presionan los rendimientos y el dólar, y las salidas de los ETF siguen.",
-   "confirmacion": "Cierre diario por debajo de 57.500 $ y bono a 10 años de vuelta por encima del 5 %.",
-   "invalidacion": "Cierre semanal por encima de 64.500 $ con el índice de miedo saliendo de la zona extrema."
+   "texto": "El rebote se agota en la resistencia, siguen las salidas de los ETF y un empleo fuerte refuerza una Fed más dura para 2027, con rendimientos y dólar al alza.",
+   "confirmacion": "Cierre diario por debajo de 58.500 $ y pérdida del mínimo de la semana (≈57.300 $); siguiente referencia, el precio realizado (≈53.250 $).",
+   "invalidacion": "Cierre semanal por encima de 64.000 $ con el índice de miedo saliendo de la zona extrema."
   }
  },
- "abogado_diablo": "El sesgo es bajista, pero el posicionamiento ya es muy corto: el funding está casi neutro y una parte del rebote de Acción de Gracias vino de cierres forzados de cortos. Con el miedo en 10–12 y salidas récord, quien quería vender ya ha vendido mucho. Una Fed que sube \"por última vez\" puede leerse como el final del endurecimiento y provocar un rebote violento.",
+ "abogado_diablo": "El sesgo es bajista, pero el posicionamiento está muy limpio: funding casi neutro, interés abierto bajando y el miedo en mínimos varias semanas. La subida de la Fed está descontada al 100 % desde hace dos semanas, así que el dato ya no sorprende; si Warsh suena a «última subida», el mercado podría girar con fuerza, y la bolsa acaba de firmar su mejor semana en año y medio.",
  "proximas_24h": [
-  "Vencimiento de unos 7.000 M$ en opciones de BTC hoy, 27-nov (08:00 UTC en Deribit).",
-  "Sesión corta en Wall Street por el Black Friday; poca liquidez, movimientos exagerados.",
-  "Cierre mensual el lunes 30-nov: noviembre es uno de los peores meses del año para cripto.",
-  "Qué cambiaría el sesgo: un cierre diario de BTC por encima de 64.500 $ o entradas netas en los ETF."
+  "Fin de semana: liquidez baja en cripto y movimientos exagerados; ojo a mechas en ambos sentidos.",
+  "Domingo 29-nov: elecciones generales en España (impacto en el Ibex y el euro el lunes).",
+  "Lunes 30-nov: cierre mensual de un noviembre con salidas récord en los ETF.",
+  "Martes 1-dic: ISM manufacturero (se espera 55,2 frente a 55,5) y JOLTS.",
+  "Qué cambiaría el sesgo: cierre diario de BTC por encima de 64.000 $ o entradas netas en los ETF."
  ],
  "titulares": [
   {
-   "t": "Bitcoin se mantiene por encima de 60.000 $ mientras el death cross apunta a debilidad",
-   "fuente": "Crypto Briefing",
-   "tono": -1,
-   "url": "https://cryptobriefing.com/bitcoin-holds-60k-death-cross-etf-outflows/",
-   "fecha": "2026-11-26"
+   "t": "Bitcoin sube un 1,63 % hasta 61.482 $ con el rebote de Wall Street",
+   "fuente": "The Rio Times",
+   "tono": 1,
+   "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-november-27-2026/",
+   "fecha": "2026-11-28"
   },
   {
-   "t": "Los ETF de bitcoin al contado pierden 5.390 M$ en noviembre, el peor mes desde su lanzamiento",
-   "fuente": "MLQ.ai",
+   "t": "Los ETF de bitcoin encadenan ocho sesiones de salidas; noviembre marca récord con 5.780 M$",
+   "fuente": "BigGo Finance (datos SoSoValue)",
    "tono": -1,
-   "url": "https://mlq.ai/news/bitcoin-holds-near-61000-on-thanksgiving-as-etf-outflows-hit-539-billion/",
-   "fecha": "2026-11-26"
+   "url": "https://finance.biggo.com/news/627a634c-87f0-43bc-a27b-cf0e2b8dd6c4",
+   "fecha": "2026-11-28"
   },
   {
-   "t": "El índice de miedo y codicia sigue en miedo extremo (10–12) por séptima semana",
-   "fuente": "EDAILY",
-   "tono": -1,
-   "url": "https://en.edaily.co.kr/news/eda202611275069/",
+   "t": "Wall Street sube en el Black Friday y el S&P 500 firma su mejor semana desde abril de 2025",
+   "fuente": "N Globe News",
+   "tono": 1,
+   "url": "https://nglobenews.com/en/article/us-stocks-black-friday-close-best-week-2026-11-27",
    "fecha": "2026-11-27"
   },
   {
-   "t": "El IPC de octubre sube un 0,4 %, más de lo esperado",
-   "fuente": "Stock Analysis",
+   "t": "FedWatch da un 100 % de probabilidad a una subida de tipos el 9 de diciembre",
+   "fuente": "The Motley Fool",
    "tono": -1,
-   "url": "https://stockanalysis.com/news/us-cpi-rises-october-2026/",
-   "fecha": "2026-11-10"
+   "url": "https://www.fool.com/investing/2026/11/27/latest-interest-rate-forecast-is-in-spells-trouble-historically-expensive-ai-bull-market/",
+   "fecha": "2026-11-27"
   },
   {
-   "t": "EE. UU. crea 165.000 empleos en octubre, muy por encima de lo previsto",
-   "fuente": "Fox Business",
+   "t": "El consenso espera 90.000 empleos en noviembre y paro estable en el 4,1 %",
+   "fuente": "Newsquawk",
    "tono": 0,
-   "url": "https://foxbusiness.com/economy/us-jobs-report-october-2026",
-   "fecha": "2026-11-06"
+   "url": "https://www.newsquawk.com/headlines/week-in-focus-nov-30th-dec-4th-2026-highlights-include-us-nfp-ism-pmis-nvda-hearings-and-the-spanish-election",
+   "fecha": "2026-11-27"
   },
   {
-   "t": "La Fed mantiene tipos en 3,75–4 % con dos votos a favor de subir",
-   "fuente": "Admiral Markets",
+   "t": "El índice de miedo y codicia sube a 12, aún en miedo extremo",
+   "fuente": "Coinotag",
    "tono": -1,
-   "url": "https://admiralmarkets.com/analytics/traders-blog/warsh-press-conference-october-2026",
-   "fecha": "2026-10-28"
+   "url": "https://en.coinotag.com/fear-and-greed-index-rebounds-12-extreme-fear",
+   "fecha": "2026-11-27"
+  },
+  {
+   "t": "El rebote de cripto se apoya en cierres de cortos con poco volumen por la festividad",
+   "fuente": "Analytics Insight",
+   "tono": 0,
+   "url": "https://www.analyticsinsight.net/news/crypto-market-recovers-as-bitcoin-climbs-above-usd-61000-whats-driving-the-rally",
+   "fecha": "2026-11-27"
   }
  ],
  "eventos": [
@@ -367,25 +375,32 @@
    "id": "NFP-2026-12-04",
    "tipo": "NFP",
    "nombre": "Empleo EE. UU. (noviembre)",
-   "t": "2026-12-04T13:30:00Z"
+   "t": "2026-12-04T13:30:00Z",
+   "esperado": "+90.000 · paro 4,1 %",
+   "anterior": "+165.000 · paro 4,1 %"
   },
   {
    "id": "FOMC-2026-12-09",
    "tipo": "FOMC",
    "nombre": "Fed (FOMC) + proyecciones",
-   "t": "2026-12-09T19:00:00Z"
+   "t": "2026-12-09T19:00:00Z",
+   "esperado": "Sube 25 pb → 4,00–4,25 %",
+   "anterior": "Mantiene 3,75–4,00 %"
   },
   {
    "id": "CPI-2026-12-10",
    "tipo": "CPI",
    "nombre": "IPC EE. UU. (noviembre)",
-   "t": "2026-12-10T13:30:00Z"
+   "t": "2026-12-10T13:30:00Z",
+   "anterior": "+0,4 % m/m · subyacente +0,3 %"
   },
   {
    "id": "BCE-2026-12-17",
    "tipo": "BCE",
    "nombre": "BCE",
-   "t": "2026-12-17T13:15:00Z"
+   "t": "2026-12-17T13:15:00Z",
+   "esperado": "Subida (caso base según las actas de octubre)",
+   "anterior": "Mantiene depósito 2,50 %"
   },
   {
    "id": "NFP-2027-01-08",
@@ -1206,11 +1221,43 @@
     ]
    ]
   },
-  "texto": "Liquidez neta plana con ligera mejora en noviembre por la bajada de la cuenta del Tesoro. Los repos inversos están agotados (≈0). El bono a 10 años se ha relajado del 5,15 % al 4,91 %; el dólar sigue firme."
+  "texto": "Series sin actualizar en esta revisión (FRED no accesible hoy); últimos datos de hasta el 18–25 de noviembre. Liquidez neta plana, con ligera mejora en noviembre por la bajada de la cuenta del Tesoro. Repos inversos agotados (≈0). El bono a 10 años cerró el 27-nov en torno al 4,94 % (desde el 5,15 % de mediados de mes) y el dólar sigue firme."
  },
  "fuentes": [
   {
-   "t": "Fed: calendario FOMC 2027 revisado",
+   "t": "The Rio Times: cripto, 27-nov",
+   "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-november-27-2026/"
+  },
+  {
+   "t": "BigGo Finance: flujos de ETF de bitcoin",
+   "url": "https://finance.biggo.com/news/627a634c-87f0-43bc-a27b-cf0e2b8dd6c4"
+  },
+  {
+   "t": "Au79 Macro: cripto y liquidez, 27-nov",
+   "url": "https://martyau79.substack.com/p/27nov2026-crypto-and-macro-liquidity"
+  },
+  {
+   "t": "N Globe News: cierre de Wall Street",
+   "url": "https://nglobenews.com/en/article/us-stocks-black-friday-close-best-week-2026-11-27"
+  },
+  {
+   "t": "StockTitan: sesión del 27-nov",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026"
+  },
+  {
+   "t": "The Motley Fool: CME FedWatch",
+   "url": "https://www.fool.com/investing/2026/11/27/latest-interest-rate-forecast-is-in-spells-trouble-historically-expensive-ai-bull-market/"
+  },
+  {
+   "t": "Newsquawk: semana del 30-nov al 4-dic",
+   "url": "https://www.newsquawk.com/headlines/week-in-focus-nov-30th-dec-4th-2026-highlights-include-us-nfp-ism-pmis-nvda-hearings-and-the-spanish-election"
+  },
+  {
+   "t": "Seeking Alpha: previa del empleo de noviembre",
+   "url": "https://seekingalpha.com/article/4972258-what-to-expect-from-november-2026s-job-report"
+  },
+  {
+   "t": "Fed: calendario FOMC",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
   },
   {
